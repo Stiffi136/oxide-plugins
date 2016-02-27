@@ -7,8 +7,8 @@
     <ProjectGuid>{62BE9C24-6A65-4C0B-8DDB-892592D30F3B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Oxide.Plugins</RootNamespace>
-    <AssemblyName>Oxide.Plugins</AssemblyName>
+    <RootNamespace>Oxide</RootNamespace>
+    <AssemblyName>Oxide</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -67,7 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LootCrate\LootCrate.cs" />
+    <Compile Include="Plugins\LootCrate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -87,6 +87,9 @@
       <Project>{67f65f5d-a62a-4752-849d-bff30d828107}</Project>
       <Name>Core</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Configs\LootCrate\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
