@@ -1,0 +1,976 @@
+{
+  "InterfaceNameLabel": "You have found a Chest!",
+  "Item List": {
+    "60s Army Jacket": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/7/75/60%27s_Army_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200741",
+      "itemid": "-1616887133",
+      "name": "60s Army Jacket",
+      "skinid": "10082"
+    },
+    "Ammo Wooden Box": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/e/e3/Ammo_Wooden_Box_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201456",
+      "itemid": "271534758",
+      "name": "Ammo Wooden Box",
+      "skinid": "10124"
+    },
+    "Argyle Scavenger": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/c/c6/Argyle_Scavenger_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204436",
+      "itemid": "-864578046",
+      "name": "Argyle Scavenger",
+      "skinid": "10130"
+    },
+    "Army Boots": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/f/f1/Army_Boots_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200800",
+      "itemid": "2107229499",
+      "name": "Army Boots",
+      "skinid": "10080"
+    },
+    "Aston Christmas": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/a/a8/Aston_Christmas_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201514",
+      "itemid": "1253290621",
+      "name": "Aston Christmas",
+      "skinid": "10121"
+    },
+    "Aztec Long T-Shirt": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/e/e1/Aztec_Long_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195354",
+      "itemid": "1660607208",
+      "name": "Aztec Long T-Shirt",
+      "skinid": "10047"
+    },
+    "Baseball Tshirt": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/4/44/Baseball_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053725",
+      "itemid": "-864578046",
+      "name": "Baseball Tshirt",
+      "skinid": "10033"
+    },
+    "Black": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/e/ed/Black_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201110",
+      "itemid": "-1616887133",
+      "name": "Black",
+      "skinid": "10113"
+    },
+    "Black Bandana": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/b/bf/Black_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200233",
+      "itemid": "-46188931",
+      "name": "Black Bandana",
+      "skinid": "10061"
+    },
+    "Black Beenie Hat": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/5/58/Black_Beenie_Hat_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053801",
+      "itemid": "-1406876421",
+      "name": "Black Beenie Hat",
+      "skinid": "14180"
+    },
+    "Black Boots": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/c/c5/Black_Boots_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195749",
+      "itemid": "2107229499",
+      "name": "Black Boots",
+      "skinid": "10023"
+    },
+    "Black Hoodie": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/9/97/Black_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200119",
+      "itemid": "-1211618504",
+      "name": "Black Hoodie",
+      "skinid": "14179"
+    },
+    "Black Longsleeve T-Shirt": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/e/e2/Black_Longsleeve_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195617",
+      "itemid": "1660607208",
+      "name": "Black Longsleeve T-Shirt",
+      "skinid": "10004"
+    },
+    "Black Tshirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/b/bb/Black_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106054123",
+      "itemid": "-864578046",
+      "name": "Black Tshirt",
+      "skinid": "10003"
+    },
+    "Bloody Boots": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/a/af/Bloody_Boots_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200836",
+      "itemid": "2107229499",
+      "name": "Bloody Boots",
+      "skinid": "10088"
+    },
+    "Bloody Hoodie": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/9/95/Bloody_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195640",
+      "itemid": "-1211618504",
+      "name": "Bloody Hoodie",
+      "skinid": "10052"
+    },
+    "Blue Bandana": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/1/1d/Blue_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200057",
+      "itemid": "-46188931",
+      "name": "Blue Bandana",
+      "skinid": "10060"
+    },
+    "Blue Beenie Hat": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/4/43/Blue_Beenie_Hat_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200238",
+      "itemid": "-1406876421",
+      "name": "Blue Beenie Hat",
+      "skinid": "10018"
+    },
+    "Blue Cap": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/56/Blue_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195645",
+      "itemid": "696727039",
+      "name": "Blue Cap",
+      "skinid": "10029"
+    },
+    "Blue Hoodie": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/5/5a/Blue_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200003",
+      "itemid": "-1211618504",
+      "name": "Blue Hoodie",
+      "skinid": "14178"
+    },
+    "Blue Jacket": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/6/65/Blue_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200113",
+      "itemid": "-1167640370",
+      "name": "Blue Jacket",
+      "skinid": "10011"
+    },
+    "Blue Jeans": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/1/1d/Blue_Jeans_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053716",
+      "itemid": "106433500",
+      "name": "Blue Jeans",
+      "skinid": "10001"
+    },
+    "Blue Plaid Sleeping Bag": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/3/36/Blue_Plaid_Sleeping_Bag_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200038",
+      "itemid": "1253290621",
+      "name": "Blue Plaid Sleeping Bag",
+      "skinid": "10037"
+    },
+    "Blue Track Pants": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/d/de/Blue_Track_Pants_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200133",
+      "itemid": "106433500",
+      "name": "Blue Track Pants",
+      "skinid": "10049"
+    },
+    "Blue Tshirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/1/1e/Blue_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053931",
+      "itemid": "-864578046",
+      "name": "Blue Tshirt",
+      "skinid": "14177"
+    },
+    "Boxers Bandages": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/b/b5/Boxer%27s_Bandages_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201502",
+      "itemid": "115739308",
+      "name": "Boxers Bandages",
+      "skinid": "10128"
+    },
+    "Burlap Brains Balaclava": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/0/01/Burlap_Brains_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201020",
+      "itemid": "997973965",
+      "name": "Burlap Brains Balaclava",
+      "skinid": "10105"
+    },
+    "Checkered Bandana": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/1/13/Checkered_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195703",
+      "itemid": "-46188931",
+      "name": "Checkered Bandana",
+      "skinid": "10067"
+    },
+    "Chieftain Pump Shotgun": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/9/94/Chieftain_Pump_Shotgun_icon.png/revision/latest/scale-to-width-down/100?cb=20151106062100",
+      "itemid": "-1009492144",
+      "name": "Chieftain Pump Shotgun",
+      "skinid": "10074"
+    },
+    "Christmas Bag": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/1/19/Christmas_Bag_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201419",
+      "itemid": "1253290621",
+      "name": "Christmas Bag",
+      "skinid": "10119"
+    },
+    "Christmas Jumper": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/8/83/Christmas_Jumper_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200701",
+      "itemid": "1660607208",
+      "name": "Christmas Jumper",
+      "skinid": "10089"
+    },
+    "Christmas Storage": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/d/d6/Christmas_Storage_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201450",
+      "itemid": "271534758",
+      "name": "Christmas Storage",
+      "skinid": "10122"
+    },
+    "Contamination Pistol": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/7/7c/Contamination_Pistol_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200655",
+      "itemid": "548699316",
+      "name": "Contamination Pistol",
+      "skinid": "10087"
+    },
+    "Creepy Clown Bandana": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/b/bf/Black_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200233",
+      "itemid": "-46188931",
+      "name": "Creepy Clown Bandana",
+      "skinid": "10104"
+    },
+    "Creepy Jack": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/57/Creepy_Jack_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201059",
+      "itemid": "1660607208",
+      "name": "Creepy Jack",
+      "skinid": "10106"
+    },
+    "Cuda87 Hoodie": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/2/27/Cuda87_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204329",
+      "itemid": "-1211618504",
+      "name": "Cuda87 Hoodie",
+      "skinid": "10133"
+    },
+    "Desert Camo Balaclava": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/e/e8/Desert_Camo_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200044",
+      "itemid": "997973965",
+      "name": "Desert Camo Balaclava",
+      "skinid": "10069"
+    },
+    "Desert Camo Bandana": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/e/ee/Desert_Camo_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200208",
+      "itemid": "-46188931",
+      "name": "Desert Camo Bandana",
+      "skinid": "10066"
+    },
+    "Desert Jacket": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/f/f0/Desert_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195737",
+      "itemid": "-1167640370",
+      "name": "Desert Jacket",
+      "skinid": "10012"
+    },
+    "Digital Camo AK47": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/9/9e/Digital_Camo_AK47_icon.png/revision/latest/scale-to-width-down/100?cb=20160211225138",
+      "itemid": "-1461508848",
+      "name": "Digital Camo AK47",
+      "skinid": "10135"
+    },
+    "Double Yellow Balaclava": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/7/70/Double_Yellow_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195931",
+      "itemid": "997973965",
+      "name": "Double Yellow Balaclava",
+      "skinid": "10071"
+    },
+    "Dreamcatcher": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/2/22/Dreamcatcher_icon.png/revision/latest/scale-to-width-down/100?cb=20160214234844",
+      "itemid": "-55660037",
+      "name": "Dreamcatcher",
+      "skinid": "10117"
+    },
+    "Facepunch TShirt": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/9/98/Facepunch_TShirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053603",
+      "itemid": "-864578046",
+      "name": "Facepunch TShirt",
+      "skinid": "10056"
+    },
+    "Farmer Hat": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/1/12/Farmer_Hat_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195725",
+      "itemid": "-1397343301",
+      "name": "Farmer Hat",
+      "skinid": "10058"
+    },
+    "First Aid Green": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/f/f5/First_Aid_Green_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201425",
+      "itemid": "271534758",
+      "name": "First Aid Green",
+      "skinid": "10123"
+    },
+    "Forest Camo Balaclava": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/a/a6/Forest_Camo_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200221",
+      "itemid": "997973965",
+      "name": "Forest Camo Balaclava",
+      "skinid": "10068"
+    },
+    "Forest Camo Bandana": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/3/3f/Forest_Camo_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195310",
+      "itemid": "-46188931",
+      "name": "Forest Camo Bandana",
+      "skinid": "10063"
+    },
+    "Forest Camo Cap": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/2/29/Forest_Camo_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200024",
+      "itemid": "696727039",
+      "name": "Forest Camo Cap",
+      "skinid": "10027"
+    },
+    "Forest Camo Pants": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/1/17/Forest_Camo_Pants_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195731",
+      "itemid": "106433500",
+      "name": "Forest Camo Pants",
+      "skinid": "10019"
+    },
+    "Forest Camo Tshirt": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/a/a2/Forest_Camo_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053948",
+      "itemid": "-864578046",
+      "name": "Forest Camo Tshirt",
+      "skinid": "14181"
+    },
+    "Frankensteins Sweater": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/c/c2/Frankensteins_Sweater_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195302",
+      "itemid": "1660607208",
+      "name": "Frankensteins Sweater",
+      "skinid": "10050"
+    },
+    "Freshly Dug Grave": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/e/ed/Freshly_Dug_Grave_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201032",
+      "itemid": "1253290621",
+      "name": "Freshly Dug Grave",
+      "skinid": "10109"
+    },
+    "Friendly Cap": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/4/4e/Friendly_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195606",
+      "itemid": "696727039",
+      "name": "Friendly Cap",
+      "skinid": "10055"
+    },
+    "German Tshirt": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/1/19/German_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200140",
+      "itemid": "-864578046",
+      "name": "German Tshirt",
+      "skinid": "10024"
+    },
+    "Ghost Bolt Rifle": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/9/9e/Ghost_Bolt_Rifle_icon.png/revision/latest/scale-to-width-down/100?cb=20160214234902",
+      "itemid": "-55660037",
+      "name": "Ghost Bolt Rifle",
+      "skinid": "10115"
+    },
+    "Green Bandana": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/53/Green_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195442",
+      "itemid": "-46188931",
+      "name": "Green Bandana",
+      "skinid": "10059"
+    },
+    "Green Beenie Hat": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/b/b8/Green_Beenie_Hat_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195919",
+      "itemid": "-1406876421",
+      "name": "Green Beenie Hat",
+      "skinid": "10017"
+    },
+    "Green Cap": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/4/4a/Green_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195925",
+      "itemid": "696727039",
+      "name": "Green Cap",
+      "skinid": "10030"
+    },
+    "Green Checkered Shirt": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/53/Grey_Longsleeve_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195329",
+      "itemid": "1660607208",
+      "name": "Green Checkered Shirt",
+      "skinid": "10032"
+    },
+    "Green Hoodie": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/2/21/Green_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195914",
+      "itemid": "-1211618504",
+      "name": "Green Hoodie",
+      "skinid": "14072"
+    },
+    "Green Jacket": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/4/4c/Green_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200156",
+      "itemid": "-1167640370",
+      "name": "Green Jacket",
+      "skinid": "10009"
+    },
+    "Grey Cap": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/7/70/Grey_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195714",
+      "itemid": "696727039",
+      "name": "Grey Cap",
+      "skinid": "10026"
+    },
+    "Grey Longsleeve T-Shirt": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/53/Grey_Longsleeve_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195329",
+      "itemid": "1660607208",
+      "name": "Grey Longsleeve",
+      "skinid": "10005"
+    },
+    "Hacker Valley Veteran": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/c/c0/Hacker_Valley_Veteran_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053826",
+      "itemid": "-864578046",
+      "name": "Hacker Valley Veteran",
+      "skinid": "10035"
+    },
+    "Halloween Bat": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/c/c3/Halloween_Bat_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201053",
+      "itemid": "548699316",
+      "name": "Halloween Bat",
+      "skinid": "10108"
+    },
+    "Horror Bag": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/4/44/Horror_Bag_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201009",
+      "itemid": "1253290621",
+      "name": "Horror Bag",
+      "skinid": "10107"
+    },
+    "Hunting Jacket": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/f/fd/Hunting_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195956",
+      "itemid": "-1167640370",
+      "name": "Hunting Jacket",
+      "skinid": "10015"
+    },
+    "Lawman": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/2/2c/Lawman_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201508&format=webp",
+      "itemid": "1660607208",
+      "name": "Lawman",
+      "skinid": "10125"
+    },
+    "Medic Helmet": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/1/1c/Medic_Helmet_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201521",
+      "itemid": "1260209393",
+      "name": "Medic Helmet",
+      "skinid": "10127"
+    },
+    "Merry Reindeer": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/53/Grey_Longsleeve_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195329",
+      "itemid": "1660607208",
+      "name": "Merry Reindeer",
+      "skinid": "10118"
+    },
+    "Military Camo AK47": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/9/9f/Military_Camo_AK47_icon.png/revision/latest/scale-to-width-down/100?cb=20160211225144",
+      "itemid": "-1461508848",
+      "name": "Military Camo AK47",
+      "skinid": "10137"
+    },
+    "Missing Textures TShirt": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/4/4d/Missing_Textures_TShirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200051",
+      "itemid": "-864578046",
+      "name": "Missing Textures TShirt",
+      "skinid": "10046"
+    },
+    "Multicam Jacket": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/d/db/Multicam_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200127",
+      "itemid": "-1167640370",
+      "name": "Multicam Jacket",
+      "skinid": "10013"
+    },
+    "Murderer T-Shirt": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/4/4c/Murderer_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195600",
+      "itemid": "-864578046",
+      "name": "Murderer T-Shirt",
+      "skinid": "10038"
+    },
+    "Murica Balaclava": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/2/2c/Murica_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053748",
+      "itemid": "997973965",
+      "name": "Murica Balaclava",
+      "skinid": "10057"
+    },
+    "Nightmare Balaclava": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/2/2b/Nightmare_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20151106062050",
+      "itemid": "997973965",
+      "name": "Nightmare Balaclava",
+      "skinid": "10075"
+    },
+    "Nightmare Sweater": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/4/4b/Nightmare_Sweater_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195419",
+      "itemid": "1660607208",
+      "name": "Nightmare Sweater",
+      "skinid": "10051"
+    },
+    "Old Prisoner Pants": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/3/30/Old_Prisoner_Pants_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200717",
+      "itemid": "106433500",
+      "name": "Old Prisoner Pants",
+      "skinid": "10078"
+    },
+    "Orange Longsleeve T-Shirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/f/f6/Orange_Longsleeve_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195658",
+      "itemid": "1660607208",
+      "name": "Orange Longsleeve T-Shirt",
+      "skinid": "10006"
+    },
+    "Outback revolver": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/5/51/Outback_revolver_icon.png/revision/latest/scale-to-width-down/100?cb=20160226092935",
+      "itemid": "-930579334",
+      "name": "Outback revolver",
+      "skinid": "10114"
+    },
+    "Pirate Vest Shirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/7/77/Pirate_Vest_%26_Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204350",
+      "itemid": "707427396",
+      "name": "Pirate Vest Shirt",
+      "skinid": "10136"
+    },
+    "Provocateur Jacket": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/b/b5/Provocateur_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200817",
+      "itemid": "-1167640370",
+      "name": "Provocateur Jacket",
+      "skinid": "10072"
+    },
+    "Punk Boots": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/a/a9/Punk_Boots_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195937",
+      "itemid": "2107229499",
+      "name": "Punk Boots",
+      "skinid": "10034"
+    },
+    "Punk Rock Pants": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/4/4d/Punk_Rock_Pants_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053631",
+      "itemid": "106433500",
+      "name": "Punk Rock Pants",
+      "skinid": "10048"
+    },
+    "Rasta Beenie": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/7/71/Rasta_Beenie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195430",
+      "itemid": "-1406876421",
+      "name": "Rasta Beenie",
+      "skinid": "10040"
+    },
+    "Reaper Note Pistol": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/7/70/Reaper_Note_Pistol_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200711",
+      "itemid": "548699316",
+      "name": "Reaper Note Pistol",
+      "skinid": "10081"
+    },
+    "Red Beenie Hat": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/4/4e/Red_Beenie_Hat_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195554",
+      "itemid": "-1406876421",
+      "name": "Red Beenie Hat",
+      "skinid": "10016"
+    },
+    "Red Cap": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/2/29/Red_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195742",
+      "itemid": "696727039",
+      "name": "Red Cap",
+      "skinid": "10028"
+    },
+    "Red Check Balaclava": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/8/86/Red_Check_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195709",
+      "itemid": "997973965",
+      "name": "Red Check Balaclava",
+      "skinid": "10070"
+    },
+    "Red Jacket": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/7/7c/Red_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195323",
+      "itemid": "-1167640370",
+      "name": "Red Jacket",
+      "skinid": "10010"
+    },
+    "Red Shine Pistol": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/5/53/Red_Shine_Pistol_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200630",
+      "itemid": "548699316",
+      "name": "Red Shine Pistol",
+      "skinid": "10073"
+    },
+    "Red Skull Bandana": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/9/9c/Red_Skull_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195511",
+      "itemid": "-46188931",
+      "name": "Red Skull Bandana",
+      "skinid": "10065"
+    },
+    "Red Tshirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/f/f3/Red_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053820",
+      "itemid": "-864578046",
+      "name": "Red TShirt",
+      "skinid": "101"
+    },
+    "Rescue Cap": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/2/2d/Rescue_Cap_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053620",
+      "itemid": "696727039",
+      "name": "Rescue Cap",
+      "skinid": "10045"
+    },
+    "Rhinocrunch Hoodie": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/4/4c/Rhinocrunch_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204321",
+      "itemid": "-1211618504",
+      "name": "Rhinocrunch Hoodie",
+      "skinid": "10132"
+    },
+    "Rorschach Skull": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/f/f1/Rorschach_Skull_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053839",
+      "itemid": "997973965",
+      "name": "Rorschach Skull",
+      "skinid": "10054"
+    },
+    "Russia Tshirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/b/bd/Russia_Tshirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195447",
+      "itemid": "-864578046",
+      "name": "Russia Tshirt",
+      "skinid": "10025"
+    },
+    "Safety Crew": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/0/0c/Safety_Crew_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204444",
+      "itemid": "-1211618504",
+      "name": "Safety Crew",
+      "skinid": "10129"
+    },
+    "Salvaged Shirt Coat and Tie": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/8/89/Salvaged_Shirt%2C_Coat_and_Tie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200642",
+      "itemid": "-1616887133",
+      "name": "Salvaged Shirt Coat and Tie",
+      "skinid": "10083"
+    },
+    "Sandbox Game Shirt": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/59/Sandbox_Game_Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106054255",
+      "itemid": "-864578046",
+      "name": "Sandbox Game Shirt",
+      "skinid": "10002"
+    },
+    "Santas Little Helper": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/8/84/Santa%27s_Little_Helper_icon.png/revision/latest/scale-to-width-down/100?cb=20160225141743",
+      "itemid": "456448245",
+      "name": "Santas Little Helper",
+      "skinid": "10120"
+    },
+    "Scavenged Sneaker Boots": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/5/5b/Scavenged_Sneaker_Boots_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195530",
+      "itemid": "2107229499",
+      "name": "Scavenged Sneaker Boots",
+      "skinid": "10044"
+    },
+    "Ser Winter TShirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/6/61/Ser_Winter_TShirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160214234909",
+      "itemid": "-864578046",
+      "name": "Ser Winter TShirt",
+      "skinid": "10134"
+    },
+    "Shadowfrax TShirt": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/7/70/Shadowfrax_TShirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160214234921",
+      "itemid": "-864578046",
+      "name": "Shadowfrax TShirt",
+      "skinid": "10131"
+    },
+    "Sign Painter": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/8/8a/Sign_Painter_icon.png/revision/latest/scale-to-width-down/100?cb=20151106054215",
+      "itemid": "1660607208",
+      "name": "Sign Painter",
+      "skinid": "10036"
+    },
+    "Skeleton Hoodie": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/c/c2/Skeleton_Hoodie_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200637",
+      "itemid": "-1211618504",
+      "name": "Skeleton Hoodie",
+      "skinid": "10086"
+    },
+    "Skin Balaclava": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/0/09/Skin_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200829",
+      "itemid": "997973965",
+      "name": "Skin Balaclava",
+      "skinid": "10090"
+    },
+    "Skull & Bones TShirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/4/43/Skull_%26_Bones_TShirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195506",
+      "itemid": "-864578046",
+      "name": "Skull & Bones TShirt",
+      "skinid": "10041"
+    },
+    "Skull Bandana": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/a/af/Skull_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195334",
+      "itemid": "-46188931",
+      "name": "Skull Bandana",
+      "skinid": "10064"
+    },
+    "Smile T-Shirt": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/5b/Smile_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195652",
+      "itemid": "-864578046",
+      "name": "Smile T-Shirt",
+      "skinid": "10053"
+    },
+    "Snow Camo Bandana": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/a/a4/Snow_Camo_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195425",
+      "itemid": "-46188931",
+      "name": "Snow Camo Bandana",
+      "skinid": "10062"
+    },
+    "Snow Camo Pants": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/d/de/Snow_Camo_Pants_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195500",
+      "itemid": "106433500",
+      "name": "Snow Camo Pants",
+      "skinid": "10021"
+    },
+    "Snowcamo Jacket": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/f/fc/Snowcamo_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200105",
+      "itemid": "-1167640370",
+      "name": "Snowcamo Jacket",
+      "skinid": "10008"
+    },
+    "Stitched Skin": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/c/ce/Stitched_Skin_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201026",
+      "itemid": "997973965",
+      "name": "Stitched Skin",
+      "skinid": "10110"
+    },
+    "Tan Boots": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/c/cf/Tan_Boots_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195755",
+      "itemid": "2107229499",
+      "name": "Tan Boots",
+      "skinid": "10022"
+    },
+    "Target Practice T-Shirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/6/6d/Target_Practice_T-Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200031",
+      "itemid": "-864578046",
+      "name": "Target Practice T-Shirt",
+      "skinid": "10039"
+    },
+    "Tempered AK47": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/a/a1/Tempered_AK47_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204335",
+      "itemid": "-1461508848",
+      "name": "Tempered AK47",
+      "skinid": "10138"
+    },
+    "The Rust Knight": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/2/27/The_Rust_Knight_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200811",
+      "itemid": "997973965",
+      "name": "The Rust Knight",
+      "skinid": "10084"
+    },
+    "Tiger Crown Sleeping Bag": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/0/01/Tiger_Crown_Sleeping_Bag_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200722",
+      "itemid": "1253290621",
+      "name": "Tiger Crown Sleeping Bag",
+      "skinid": "10077"
+    },
+    "Tundra Bolt Rifle": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/c/cf/Tundra_Bolt_Rifle_icon.png/revision/latest/scale-to-width-down/100?cb=20160214234858",
+      "itemid": "-55660037",
+      "name": "Tundra Bolt Rifle",
+      "skinid": "10116"
+    },
+    "Urban Camo": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/1/1f/Urban_Camo_icon.png/revision/latest/scale-to-width-down/100?cb=20151106054016",
+      "itemid": "-864578046",
+      "name": "Urban Camo",
+      "skinid": "584379"
+    },
+    "Urban Camo Jacket": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/9/94/Urban_Camo_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200215",
+      "itemid": "-1167640370",
+      "name": "Urban Camo Jacket",
+      "skinid": "10014"
+    },
+    "Urban Camo Pants": {
+      "img": "http://vignette4.wikia.nocookie.net/play-rust/images/5/54/Urban_Camo_Pants_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195400",
+      "itemid": "106433500",
+      "name": "Urban Camo Pants",
+      "skinid": "10020"
+    },
+    "Valentine Balaclava": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/e/e7/Valentine_Balaclava_icon.png/revision/latest/scale-to-width-down/100?cb=20160211204423",
+      "itemid": "997973965",
+      "name": "Valentine Balaclava",
+      "skinid": "10139"
+    },
+    "Varsity Jacket": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/1/1d/Varsity_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195536",
+      "itemid": "1660607208",
+      "name": "Varsity Jacket",
+      "skinid": "10042"
+    },
+    "Vyshyvanka Shirt": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/d/d8/Vyshyvanka_Shirt_icon.png/revision/latest/scale-to-width-down/100?cb=20151106053755",
+      "itemid": "-864578046",
+      "name": "Vyshyvanka Shirt",
+      "skinid": "10043"
+    },
+    "Winter Deers": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/e/e3/Winter_Deers_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200706",
+      "itemid": "-1406876421",
+      "name": "Winter Deers",
+      "skinid": "10085"
+    },
+    "Wizard Bandana": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/4/49/Wizard_Bandana_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200841",
+      "itemid": "-46188931",
+      "name": "Wizard Bandana",
+      "skinid": "10079"
+    },
+    "Wood Camo Sleeping Bag": {
+      "img": "http://vignette3.wikia.nocookie.net/play-rust/images/5/59/Wood_Camo_Sleeping_Bag_icon.png/revision/latest/scale-to-width-down/100?cb=20160211200728",
+      "itemid": "1253290621",
+      "name": "Wood Camo Sleeping Bag",
+      "skinid": "10076"
+    },
+    "Wooden Bucket": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/c/c4/Wooden_Bucket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201438",
+      "itemid": "1260209393",
+      "name": "Wooden Bucket",
+      "skinid": "10126"
+    },
+    "Woodland": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/c/c9/Woodland_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201105",
+      "itemid": "-1616887133",
+      "name": "Woodland",
+      "skinid": "10112"
+    },
+    "Yellow Longsleeve T-Shirt": {
+      "img": "http://vignette1.wikia.nocookie.net/play-rust/images/1/1d/Varsity_Jacket_icon.png/revision/latest/scale-to-width-down/100?cb=20160211195536",
+      "itemid": "1660607208",
+      "name": "Yellow Longsleeve T-Shirt",
+      "skinid": "10007"
+    },
+    "Zipper Face": {
+      "img": "http://vignette2.wikia.nocookie.net/play-rust/images/9/9c/Zipper_Face_icon.png/revision/latest/scale-to-width-down/100?cb=20160211201014",
+      "itemid": "997973965",
+      "name": "Zipper Face",
+      "skinid": "10111"
+    }
+  },
+  "Message - Error - No Econonomics": "Couldn't get informations out of Economics. Is it installed?",
+  "Message - Error - Not Enough Money": "You don't have enough money to open this chest.",
+  "OpeningCost": 1000,
+  "Rarity Classes": {
+    "Common": {
+      "chance": "5000",
+      "color": "1 1 1 0.1",
+      "items": [
+        "Black Longsleeve T-Shirt",
+        "Grey Longsleeve T-Shirt",
+        "Yellow Longsleeve T-Shirt",
+        "Orange Longsleeve T-Shirt",
+        "Black Tshirt",
+        "Red Tshirt",
+        "Facepunch TShirt",
+        "Blue Tshirt",
+        "Sandbox Game Shirt",
+        "Ser Winter TShirt",
+        "Shadowfrax TShirt",
+        "Russia Tshirt",
+        "Missing Textures TShirt",
+        "Blue Plaid Sleeping Bag",
+        "Tan Boots",
+        "Black Boots",
+        "Blue Jeans",
+        "Blue Track Pants",
+        "Black Bandana",
+        "Blue Bandana",
+        "Checkered Bandana",
+        "Green Bandana",
+        "Double Yellow Balaclava",
+        "Red Check Balaclava",
+        "Murica Balaclava",
+        "Black",
+        "Blue Jacket",
+        "Green Jacket",
+        "Red Jacket",
+        "Black Hoodie",
+        "Blue Hoodie",
+        "Green Hoodie",
+        "Blue Cap",
+        "Green Cap",
+        "Grey Cap",
+        "Red Cap",
+        "Black Beenie Hat",
+        "Blue Beenie Hat",
+        "Green Beenie Hat",
+        "Red Beenie Hat"
+      ],
+      "name": "Common"
+    },
+    "Epic": {
+      "chance": "500",
+      "color": "0.6 0 1 0.1",
+      "items": [
+        "Reaper Note Pistol",
+        "Chieftain Pump Shotgun",
+        "Dreamcatcher",
+        "Digital Camo AK47",
+        "Contamination Pistol",
+        "Red Shine Pistol",
+        "Outback revolver"
+      ],
+      "name": "Epic"
+    },
+    "Legendary": {
+      "chance": "100",
+      "color": "1 0.6 0 0.1",
+      "items": [
+        "Santas Little Helper",
+        "Ghost Bolt Rifle",
+        "Tundra Bolt Rifle",
+        "Military Camo AK47",
+        "Tempered AK47",
+        "Halloween Bat"
+      ],
+      "name": "Legendary"
+    },
+    "Rare": {
+      "chance": "1000",
+      "color": "0 0 1 0.1",
+      "items": [
+        "Argyle Scavenger",
+        "Baseball Tshirt",
+        "Hacker Valley Veteran",
+        "German Tshirt",
+        "Christmas Jumper",
+        "Creepy Jack",
+        "Frankensteins Sweater",
+        "Lawman",
+        "Merry Reindeer",
+        "Nightmare Sweater",
+        "Aston Christmas",
+        "Christmas Bag",
+        "Freshly Dug Grave",
+        "Horror Bag",
+        "Army Boots",
+        "Bloody Boots",
+        "Forest Camo Tshirt",
+        "Urban Camo",
+        "Forest Camo Pants",
+        "Urban Camo Pants",
+        "Snow Camo Pants",
+        "Skull Bandana",
+        "Desert Camo Bandana",
+        "Forest Camo Bandana",
+        "Snow Camo Bandana",
+        "Valentine Balaclava",
+        "Zipper Face",
+        "Stitched Skin",
+        "Skin Balaclava",
+        "Nightmare Balaclava",
+        "Forest Camo Balaclava",
+        "Desert Camo Balaclava",
+        "Burlap Brains Balaclava",
+        "60's Army Jacket",
+        "Salvaged Shirt Coat and Tie",
+        "Hunting Jacket",
+        "Desert Jacket",
+        "Snowcamo Jacket",
+        "Multicam Jacket",
+        "Urban Camo Jacket",
+        "Bloody Hoodie",
+        "Rhinocrunch Hoodie",
+        "Skeleton Hoodie",
+        "Forest Camo Cap",
+        "Winter Deers",
+        "Rasta Beenie",
+        "Christmas Storage"
+      ],
+      "name": "Rare"
+    },
+    "Uncommon": {
+      "chance": "2000",
+      "color": "0 0.6 0 0.1",
+      "items": [
+        "Skull & Bones TShirt",
+        "Smile T-Shirt",
+        "Target Practice T-Shirt",
+        "Vyshyvanka Shirt",
+        "Murderer T-Shirt",
+        "Aztec Long T-Shirt",
+        "Sign Painter",
+        "Varsity Jacket",
+        "Green Checkered Shirt",
+        "Wood Camo Sleeping Bag",
+        "Tiger Crown Sleeping Bag",
+        "Punk Boots",
+        "Scavenged Sneaker Boots",
+        "Punk Rock Pants",
+        "Old Prisoner Pants",
+        "Creepy Clown Bandana",
+        "Wizard Bandana",
+        "Red Skull Bandana",
+        "Rorschach Skull",
+        "The Rust Knight",
+        "Woodland",
+        "Provocateur Jacket",
+        "Safety Crew",
+        "Cuda87 Hoodie",
+        "Rescue Cap",
+        "Friendly Cap",
+        "Farmer Hat",
+        "Pirate Vest Shirt",
+        "Boxers Bandages",
+        "Wooden Bucket",
+        "Medic Helmet",
+        "First Aid Green",
+        "Ammo Wooden Box"
+      ],
+      "name": "Uncommon"
+    }
+  }
+}
