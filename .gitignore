@@ -1,0 +1,6 @@
+Plugins.sln
+Plugins/Plugins.csproj
+Plugins/Properties/AssemblyInfo.cs
+Plugins/bin/Debug/Plugins.vshost.exe.manifest
+Plugins/obj/Debug/Plugins.csproj.FileListAbsolute.txt
+Plugins/obj/Debug/build.force
