@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Plugins\GUIShop.cs" />
     <Compile Include="Plugins\StandingOrder.cs" />
     <Compile Include="Plugins\PluginSkeleton.cs" />
     <Compile Include="Plugins\LootCrate.cs" />
