@@ -813,11 +813,22 @@ namespace Oxide.Plugins
             if (!ShopCategories.ContainsKey(item)) return MessageErrorItemNoValid;
 
             var itemdata = (Dictionary<string, object>) ShopCategories[item];
-            if (!itemdata.ContainsKey("buy")) return MessageErrorBuyPrice;
-            var buyprice = Convert.ToSingle(itemdata["buy"]);
 
-            if (playerCoins < buyprice * amount)
-                return string.Format(MessageErrorNotEnoughMoney, (buyprice * amount), amount, item);
+            bool nonDynamic = true;
+            string dStock = "0";
+            string stock = "0";
+            if (itemdata.ContainsKey("dstock") && itemdata.ContainsKey("stock"))
+            {
+                nonDynamic = false;
+                dStock = (string)itemdata["dstock"];
+                stock = (string)itemdata["stock"];
+            }
+
+            if (!itemdata.ContainsKey("buy")) return MessageErrorBuyPrice;
+            var buyprice = CalcBuyPrice(dStock, itemdata["buy"], stock, amount, nonDynamic));
+
+            if (playerCoins < buyprice)
+                return string.Format(MessageErrorNotEnoughMoney, buyprice, amount, item);
 
             if (itemdata.ContainsKey("dstock") && itemdata.ContainsKey("stock"))
                 if (Convert.ToSingle(Convert.ToInt32(itemdata["stock"]) - amount) < 0)
