@@ -825,7 +825,7 @@ namespace Oxide.Plugins
             }
 
             if (!itemdata.ContainsKey("buy")) return MessageErrorBuyPrice;
-            var buyprice = CalcBuyPrice(dStock, itemdata["buy"], stock, amount, nonDynamic));
+            var buyprice = CalcBuyPrice(dStock, itemdata["buy"], stock, amount, nonDynamic);
 
             if (playerCoins < buyprice)
                 return string.Format(MessageErrorNotEnoughMoney, buyprice, amount, item);
